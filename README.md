@@ -1,1 +1,1 @@
-# Ice-cream-shop-project lets start coding
+# Ice-cream-shop-project lets start coding!
